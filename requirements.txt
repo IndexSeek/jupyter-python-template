@@ -1,0 +1,4 @@
+notebook
+jupyterlab
+pre-commit
+python-dotenv
